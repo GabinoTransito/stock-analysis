@@ -25,10 +25,15 @@ In the year 2018, we see the complete opposite regarding returns. Even though we
 ![Theater_Outcomes_vs_Launch](https://github.com/GabinoTransito/stock-analysis/blob/main/resources/VBA_Challenge_2018.png)
 
 ## Summary
+ 
+ Based on the given results from both the 2017 and 2018 tables STve can better help his parents choose a stock to invest thei rmoney in. RUN and ENPH were the only two that had positive returns on both years. Perhaps he should recmommed these two to his parents. If they want to invest in another stock that is not RUN nor ENPH they could also choose one of the stocks that did not lose too much such as VSLR or SEDG. TERP had negative results in both 2017 and 2018, so they might want to stay away from this one. 
 
 ### Advantages and Disadvantages of Refactoring code
 
+Refactoring code is one very easy way for employers to see how you are doing in a particualr langauge. Refactoring allows programmers and analysts to run code in faster and sometimes easier ways. A diadvatage is that sometimes, when not prepared properly, refactored code can throw you off balance if you only know one way to do things. Refactoring code allows you to broaden yoru horizons and challenge you to learn new ways to get the same results, even if its not always the easiest way. 
+
 ### Advantages and Disadvantages of Refactoring the VBA Script 
 
-## Conclusion
+I struggled a lot with getting my refactored code to run. I kept runnning into a debug error that I could not seem to be able to get to the bottom of. Additionally, i did not understand why on one part of the problem, instead of a nested loop that we had in the original code, they wanted us to instead use to different **for loops**. However, as stated previously, refactoring code is meant to challenge that and allow you to find more than one way to achieve the same result. 
+
 
