@@ -2,9 +2,15 @@
 
 ## Overview of Project
 
+I found this project to be very entertaining. This was my first time working with VBA so it took a lot of sepearte research to fully undertand the concepts of VBA. 
+
 ### Purpose
 
+The Purpose of this project was to help Steve make a better recommendation to his parents regarding which stocks to invest their money. Adding a visualization such as the table that compares both the 2017 and 2018 results allows steve and his parents to visualize the rise and fall of the stocks. 
+
 ## Results
+
+Adding the visuals such as the colors (green for positve results and red for negative resuts) will allow Steve as well as his parents to better visualize and be pulled to the facts rather than choosing a random stock just because they liked the name of the stock. 
 
 ### Results of 2017
 
